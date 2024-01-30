@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="homework1">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML_Dec_2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/exercise1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/exercise2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/exercise3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/exercise3/styles.css" afterDir="false" />
+    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="add homework1">
+      <change beforePath="$PROJECT_DIR$/lesson1/exercise3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/exercise3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +46,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706632613367</updated>
-      <workItem from="1706632614390" duration="7282000" />
+      <workItem from="1706632614390" duration="7419000" />
     </task>
+    <task id="LOCAL-00001" summary="add homework1">
+      <option name="closed" value="true" />
+      <created>1706650265095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706650265095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="homework1" />
+    <MESSAGE value="add homework1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework1" />
   </component>
 </project>
