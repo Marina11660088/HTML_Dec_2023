@@ -1,0 +1,49 @@
+.fonts {
+    display: flex;
+    justify-content: space-between;
+}
+.rubik-pixels {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    font-family: 'Rubik Pixels';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sedgwick-ave-display {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    font-family: 'Sedgwick Ave Display';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dancing-script {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    font-family: 'Dancing Script';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fjalla-one {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    font-family: 'Fjalla One';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.indie-flower {
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    font-family: 'Indie Flower';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
