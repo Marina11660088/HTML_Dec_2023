@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="add homework1">
-      <change afterPath="$PROJECT_DIR$/lesson2/exercise1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/exercise1/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/exercise2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/exercise2/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/exercise3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/exercise3/styles.css" afterDir="false" />
+    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="add homework2">
+      <change afterPath="$PROJECT_DIR$/lesson2extra/exercise1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2extra/exercise1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2extra/exercise2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2extra/exercise2/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2extra/exercise3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2extra/exercise3/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/exercise3/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/exercise3/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706632613367</updated>
-      <workItem from="1706632614390" duration="18101000" />
+      <workItem from="1706632614390" duration="30277000" />
     </task>
     <task id="LOCAL-00001" summary="add homework1">
       <option name="closed" value="true" />
@@ -71,7 +72,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706650428265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add homework2">
+      <option name="closed" value="true" />
+      <created>1706816001144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706816001144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homework1" />
     <MESSAGE value="add homework1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework1" />
+    <MESSAGE value="add homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework2" />
   </component>
 </project>
