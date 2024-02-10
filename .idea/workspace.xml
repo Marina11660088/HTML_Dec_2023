@@ -4,18 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="add homework 2extra">
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise1/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise1/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise1/3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise1/4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise1/5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise2/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/exercise3/index.html" afterDir="false" />
+    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="add homework 3">
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/image-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/main-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/exercise1/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2extra/exercise1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2extra/exercise1/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson2extra/exercise3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2extra/exercise3/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson4/exercise1" />
+      <recent name="$PROJECT_DIR$/lesson4/exercise1/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706632613367</updated>
-      <workItem from="1706632614390" duration="39562000" />
+      <workItem from="1706632614390" duration="51536000" />
     </task>
     <task id="LOCAL-00001" summary="add homework1">
       <option name="closed" value="true" />
@@ -99,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706983298241</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add homework 3">
+      <option name="closed" value="true" />
+      <created>1707235223190</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707235223190</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +133,7 @@
     <MESSAGE value="add homework1" />
     <MESSAGE value="add homework2" />
     <MESSAGE value="add homework 2extra" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework 2extra" />
+    <MESSAGE value="add homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 3" />
   </component>
 </project>
