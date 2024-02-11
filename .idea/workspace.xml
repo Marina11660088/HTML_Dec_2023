@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="add homework 4/1">
-      <change beforePath="$PROJECT_DIR$/lesson4/exercise2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/exercise2/index.html" afterDir="false" />
+    <list default="true" id="bfa68c4f-9f3e-4208-b6b7-41ec331b21f5" name="Changes" comment="add homework 4">
+      <change afterPath="$PROJECT_DIR$/lesson5/exercise1/battle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/exercise1/chessboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/exercise1/ds3tool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/exercise1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/exercise1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/exercise2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/exercise2/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +48,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson5/exercise2" />
+      <recent name="$PROJECT_DIR$/lesson5/exercise1" />
+      <recent name="$PROJECT_DIR$/lesson5" />
       <recent name="$PROJECT_DIR$/lesson4/exercise2" />
       <recent name="$PROJECT_DIR$/lesson4/exercise1" />
-      <recent name="$PROJECT_DIR$/lesson4/exercise1/images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706632613367</updated>
       <workItem from="1706632614390" duration="51714000" />
-      <workItem from="1707552100198" duration="8734000" />
+      <workItem from="1707552100198" duration="17488000" />
     </task>
     <task id="LOCAL-00001" summary="add homework1">
       <option name="closed" value="true" />
@@ -121,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707576088846</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add homework 4">
+      <option name="closed" value="true" />
+      <created>1707576199017</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707576199017</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +162,7 @@
     <MESSAGE value="add homework 2extra" />
     <MESSAGE value="add homework 3" />
     <MESSAGE value="add homework 4/1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework 4/1" />
+    <MESSAGE value="add homework 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 4" />
   </component>
 </project>
